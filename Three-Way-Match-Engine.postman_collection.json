@@ -1,0 +1,206 @@
+{
+	"info": {
+		"_postman_id": "8a32b6e1-512c-473d-8ab1-24835678abcd",
+		"name": "Three-Way Match Engine",
+		"description": "API collection for testing the Purchase Order, GRN, and Invoice Three-Way Match Engine.",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Documents Ingestion",
+			"item": [
+				{
+					"name": "Upload PO Document",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "documentType",
+									"value": "po",
+									"type": "text"
+								},
+								{
+									"key": "invoiceFile",
+									"type": "file",
+									"src": ""
+								}
+							]
+						},
+						"url": {
+							"raw": "{{base_url}}/api/documents/upload",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"api",
+								"documents",
+								"upload"
+							]
+						},
+						"description": "Uploads a PO PDF file, extracts structured data, saves it to MongoDB, and triggers three-way matching recalculation."
+					},
+					"response": []
+				},
+				{
+					"name": "Upload GRN Document",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "documentType",
+									"value": "grn",
+									"type": "text"
+								},
+								{
+									"key": "invoiceFile",
+									"type": "file",
+									"src": ""
+								}
+							]
+						},
+						"url": {
+							"raw": "{{base_url}}/api/documents/upload",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"api",
+								"documents",
+								"upload"
+							]
+						},
+						"description": "Uploads a GRN PDF file, extracts structured data, saves it to MongoDB, and triggers three-way matching recalculation."
+					},
+					"response": []
+				},
+				{
+					"name": "Upload Invoice Document",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "documentType",
+									"value": "invoice",
+									"type": "text"
+								},
+								{
+									"key": "invoiceFile",
+									"type": "file",
+									"src": ""
+								}
+							]
+						},
+						"url": {
+							"raw": "{{base_url}}/api/documents/upload",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"api",
+								"documents",
+								"upload"
+							]
+						},
+						"description": "Uploads an Invoice PDF file, extracts structured data, saves it to MongoDB, and triggers three-way matching recalculation."
+					},
+					"response": []
+				},
+				{
+					"name": "Get Parsed Document by ID",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{base_url}}/api/documents/:id",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"api",
+								"documents",
+								":id"
+							],
+							"variable": [
+								{
+									"key": "id",
+									"value": "645b8123c2e5f3d712345678",
+									"description": "The MongoDB ObjectId of the parsed document"
+								}
+							]
+						},
+						"description": "Retrieves the parsed structured JSON of a PO, GRN, or Invoice document by its database _id."
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Reconciliation & Matching",
+			"item": [
+				{
+					"name": "Check Three-Way Match Status",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{base_url}}/api/match/:poNumber",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"api",
+								"match",
+								":poNumber"
+							],
+							"variable": [
+								{
+									"key": "poNumber",
+									"value": "CI4PO05788",
+									"description": "The Purchase Order number to reconcile"
+								}
+							]
+						},
+						"description": "Retrieves the latest three-way match status, mismatch reasons, document counts, and item reconciliation summaries for the PO number."
+					},
+					"response": []
+				}
+			]
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "base_url",
+			"value": "http://localhost:4000",
+			"type": "string"
+		}
+	]
+}

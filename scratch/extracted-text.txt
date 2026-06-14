@@ -1,0 +1,587 @@
+
+
+Branch : 
+ORIGINAL FOR BUYER
+TAX INVOICE
+Address: M-8 /55/32, Taloja Navi Patalganga, 
+Raigad, Mumbai Maharashtra-410206 INDIA
+Phone: +91-124-4367477, Website: 
+GSTIN:
+CIN: U74899DL1993PTC056509
+IRN No:- fc3f75ee0549f7da27d105ab56feccdec26960b0a56cb6385e42341c22e4e69c
+IN25MH2504251
+24/03/2026
+Maharashtra
+27
+24846
+292166651756
+CI4PO05788
+24/03/2026
+13324999000557
+:
+:
+:
+:
+:
+:
+Customer Order No.
+Customer Order Dt.
+Due Date
+Dispatch Through
+Payment Terms
+FSSAI LIC No.
+:
+:
+:
+:
+:
+:
+Invoice No.
+Invoice Date.
+State
+State Code
+Del. Challan No.
+EWB No.
+Customer Order No.
+Customer Order Dt.
+Due Date
+Dispatch Through
+Payment Terms
+FSSAI LIC No.
+Details of Customer (Ship To)Details of Customer (Bill To)
+:
+:Bill Name
+Ledger 
+Cloudstore Retail Private Limited
+Cloudstore Retail Private Limited
+BC00010
+Ledger 
+Bill Name
+ZB0059- (Swiggy Cloudstore)-Mumbai
+ZB0059- (Swiggy Cloudstore)-Mumbai
+::AddressAddressBefore Padgha Toll naka, Nashik-Mumbai Highway, 
+Padgha-Bhiwandi, B-400, One K- Square Park, K-Square 
+Industrial & Logistics Park, Mumbai-421101 IN
+Before Padgha Toll naka, Nashik-Mumbai Highway, 
+Padgha-Bhiwandi B-400, One K- Square Park, 
+K-Square Industrial & Logistics Park, Mumbai-421101 
+IN
+Cont Person
+:
+Transport
+Dhaval
+:
+Mobile
+:
+Vehicle No
+9560619272
+:
+MH12WX9609
+JWL Cold Store Pvt. Ltd.
+Maharashtra
+27
+27AAKCC0172C1Z1
+AAKCC0172C
+Maharashtra
+Maharashtra
+27
+27AAKCC0172C1Z1
+AAKCC0172C
+Maharashtra
+:
+:
+:
+:
+:
+State
+State Code
+GSTIN/UIN
+PAN No.
+Supply Place
+:
+:
+:
+:
+:
+State
+State Code
+GSTIN/UIN
+PAN No.
+Supply Place 
+Sr. 
+No.
+DescriptionCGSTSGST
+RateAmountRateAmount
+HSN/SAC
+Code
+Rate
+[INR]
+UOMQty
+Taxable 
+Value
+Total 
+Amount
+Item Code
+Dis
+PR
+ 50.00 
+ 2.50% 2.50% 275.95
+1
+ 11038.00 275.95
+ 220.76PKT
+19022010
+ 11589.90
+FG-P-F-0503
+ 0.00
+%
+ 75.00 
+ 2.50% 2.50% 237.51
+2
+ 9500.25 237.51
+Meatigo RTC Meatigo Hot Wings 250g 
+ 126.67PKT
+16023200
+ 9975.26
+FG-M-F-1703
+ 0.00
+%
+ 30.00 
+ 2.50% 2.50% 105.86
+3
+ 4234.20 105.86
+Meatigo Chicken Curry Cuts 450g (5%) 
+ 141.14PKT
+02071400
+ 4445.91
+FG-M-F-0620
+ 0.00
+%
+ 30.00 
+ 2.50% 2.50% 149.29
+4
+ 5971.50 149.29
+Meatigo Chicken Boneless Breast 450g (5%) 
+ 199.05PKT
+02071400
+ 6270.08
+FG-M-F-0619
+ 0.00
+%
+ 75.00 
+ 2.50% 2.50% 352.86
+5
+ 14114.25 352.86
+ 188.19PKT
+16010000
+ 14819.96
+FG-P-F-0249
+ 0.00
+%
+ 75.00 
+ 2.50% 2.50% 237.51
+6
+ 9500.25 237.51
+ 126.67PKT
+16010000
+ 9975.26
+FG-P-F-0234
+ 0.00
+%
+ 272.00 
+ 2.50% 2.50% 1550.40
+7
+ 62016.00 1550.40
+ 228.00PKT
+16010000
+ 65116.80
+FG-P-F-0413
+ 0.00
+%
+ 270.00 
+ 2.50% 2.50% 1270.28
+8
+ 50811.30 1270.28
+Meatigo Chicken Drumsticks 450g (5%) 
+ 188.19PKT
+02071400
+ 53351.87
+FG-M-F-0602
+ 0.00
+%
+ 25.00 
+ 2.50% 2.50% 74.64
+9
+ 2985.75 74.64
+ 119.43PKT
+20049000
+ 3135.04
+FG-P-F-1707
+ 0.00
+%
+ 360.00 
+ 2.50% 2.50% 1791.45
+10
+ 71658.00 1791.45
+Meatigo Chicken Keema (Mince) 450g (5%) 
+ 199.05PKT
+02071400
+ 75240.90
+FG-M-F-0622
+ 0.00
+%
+ 475.00 
+ 2.50% 2.50% 2621.53
+11
+ 104861.00 2621.53
+ 220.76PKT
+19022010
+ 110104.05
+FG-P-F-0505
+ 0.00
+%
+ 325.00 
+ 2.50% 2.50% 1793.68
+12
+ 71747.00 1793.68
+ 220.76PKT
+19022010
+ 75334.35
+FG-P-F-0512
+ 0.00
+%
+ 75.00 
+ 2.50% 2.50% 380.01
+13
+ 15200.25 380.01
+ 202.67PKT
+19022010
+ 15960.26
+FG-P-F-0514
+ 0.00
+%
+ 40.00 
+ 2.50% 2.50% 144.76
+14
+ 5790.40 144.76
+250g 
+ 144.76PKT
+16010000
+ 6079.92
+FG-P-F-0335
+ 0.00
+%
+ 450.00 
+ 2.50% 2.50% 1506.38
+15
+ 60255.00 1506.38
+ 133.90PKT
+19022010
+ 63267.75
+FG-P-F-0504
+ 0.00
+%
+ 400.00 
+ 2.50% 2.50% 1121.90
+16
+ 44876.00 1121.90
+ 112.19PKT
+19022010
+ 47119.80
+FG-P-F-0513
+ 0.00
+%
+ 90.00 
+ 2.50% 2.50% 268.72
+17
+ 10748.70 268.72
+Meatigo RTC Everyday Chicken Breast 150g 
+ 119.43PKT
+16021000
+ 11286.14
+FG-M-F-1728
+ 0.00
+%
+ 40.00 
+ 2.50% 2.50% 170.10
+18
+ 6804.00 170.10
+ 170.10PKT
+16010000
+ 7144.20
+FG-P-F-0323
+ 0.00
+%
+ 50.00 
+ 2.50% 2.50% 221.66
+19
+ 8866.50 221.66
+ 177.33PKT
+16010000
+ 9309.83
+FG-P-F-0236
+ 0.00
+%
+ 40.00 
+ 2.50% 2.50% 162.86
+20
+ 6514.40 162.86
+330g 
+ 162.86PKT
+19022010
+ 6840.12
+FG-P-F-0580
+ 0.00
+%
+ 80.00 
+ 2.50% 2.50% 177.34
+21
+ 7093.60 177.34
+ 88.67PKT
+19022010
+ 7448.28
+FG-P-F-0527
+ 0.00
+%
+ 25.00 
+ 2.50% 2.50% 85.95
+22
+ 3438.00 85.95
+ 137.52PKT
+16010000
+ 3609.90
+FG-P-F-0247
+ 0.00
+%
+ 36.00 
+ 2.50% 2.50% 136.80
+23
+ 5472.00 136.80
+ 152.00PKT
+16010000
+ 5745.60
+FG-P-F-0102
+ 0.00
+%
+ 380.00 
+ 2.50% 2.50% 1237.76
+24
+ 49510.20 1237.76
+ 130.29PKT
+16010000
+ 51985.71
+FG-P-F-0321
+ 0.00
+%
+ 80.00 
+ 2.50% 2.50% 340.20
+25
+ 13608.00 340.20
+ 170.10PKT
+19022010
+ 14288.40
+FG-P-F-0581
+ 0.00
+%
+ 72.00 
+ 2.50% 2.50% 445.72
+26
+ 17828.64 445.72
+ 247.62KG
+19022010
+ 18720.07
+FG-P-F-0501
+ 0.00
+%
+ 25.00 
+ 2.50% 2.50% 149.29
+27
+ 5971.50 149.29
+ 238.86PKT
+19022010
+ 6270.08
+FG-P-F-0564
+ 0.00
+%
+24/03/2026  Page 1 of 2
+This is a computer-generated document. No Signature is required
+Printed by SAP Business OnePrinted by SAP Business One
+www.PSM.com
+ 27ABACA2423J1Z0
+M/s AFP
+PSM Cheesy Spicy Vegetable Momos 24Pcs
+PSM Pork Plain Salami 200g
+PSM Frozen Chicken Chilli Salami 200g
+PSM Frozen Chicken Seekh Kabab 500g
+PSM Spring Roll - Chinese Veg 240g
+PSM Chicken Momos 24Pcs
+PSM Spicy Chicken Momos 24Pcs
+PSM Vegetable & Paneer Momos 24Pcs
+PSM Chicken Cheese & Onion Sausage
+PSM Chicken Momos 10Pcs
+PSM Vegetable & Paneer Momos 10Pcs
+PSM Frozen Pork Sausage 250g
+PSM Frozen Pork Ham 200g
+PSM Whole Wheat Momos - Veg & Paneer
+PSM Peri Peri Veg Momos 15Pcs
+PSM Frozen Chicken Salami 200g
+PSM Frozen Pork Breakfast Bacon 150g
+PSM Frozen Chicken Sausage 250g
+PSM Whole Wheat Momos - Chicken 330g
+PSM FS Chef Momo - Chicken 1kg
+PSM Cheese & Chicken Momos 540g
+
+Sr. 
+No.
+DescriptionCGSTSGST
+RateAmountRateAmount
+HSN/SAC
+Code
+Rate
+[INR]
+UOMQty
+Taxable 
+Value
+Total 
+Amount
+Item Code
+Dis
+PR
+ 30.00 
+ 2.50% 2.50% 141.14
+28
+ 5645.70 141.14
+Meatigo RTC Everyday Fish Fillet 200g 
+ 188.19PKT
+16042000
+ 5927.99
+FG-M-F-1729
+ 0.00
+%
+ 640.00 
+ 2.50% 2.50% 1152.32
+29
+ 46092.80 1152.32
+Peri Peri Chicken Momos 250g 
+ 72.02PKT
+19022010
+ 48397.44
+FG-P-F-0542
+ 0.00
+%
+ 40.00 
+ 2.50% 2.50% 133.90
+30
+ 5356.00 133.90
+ 133.90PKT
+16010000
+ 5623.80
+FG-P-F-0237
+ 0.00
+%
+ 50.00 
+ 2.50% 2.50% 143.86
+31
+ 5754.50 143.86
+ 115.09PKT
+19059090
+ 6042.23
+FG-P-F-1911
+ 0.00
+%
+ 18581.59
+ 743263.69
+Total
+ 18581.59
+ 4705.00
+ 780426.87
+Total Amount Before Tax
+ 743263.69
+Add : CGST
+ 18581.59
+Add : SGST 
+ 18581.59
+Total GST
+ 37163.18
+Total Amount
+ 780426.87
+Remarks: ZB0059- (Swiggy Cloudstore)-Mumbai Based On Sales Orders 24830. Based On 
+Deliveries 24846.
+Amount In Words: INR  Seven Lakhs Eighty Thousand Four Hundred Twenty-Six Rupees And Eighty-Seven Paisa Only
+Amount
+State Tax
+HSN/SAC
+Taxable 
+Value
+Central Tax
+RateRateAmount
+Integrated Tax
+RateAmount
+Total
+Tax Amount
+20049000 2985.75
+ 2.50 74.64
+ 2.50
+ 74.64 149.29
+16023200 9500.25
+ 2.50 237.51
+ 2.50
+ 237.51 475.01
+16010000 170867.60
+ 2.50 4271.69
+ 2.50
+ 4271.69 8543.38
+19022010 405086.19
+ 2.50 10127.15
+ 2.50
+ 10127.15 20254.31
+16042000 5645.70
+ 2.50 141.14
+ 2.50
+ 141.14 282.29
+16021000 10748.70
+ 2.50 268.72
+ 2.50
+ 268.72 537.44
+02071400 132675.00
+ 2.50 3316.88
+ 2.50
+ 3316.88 6633.75
+19059090 5754.50
+ 2.50 143.86
+ 2.50
+ 143.86 287.73
+ 18581.59 18581.59 37163.18
+Rupees  Thirty-Seven Thousand One Hundred Sixty-Three And Eighteen Paisa Only
+Tax In Words:-
+Terms & Conditions :-  
+Any discrepancies in the invoice must be reported within 24 hours of receipt; otherwise, the invoice will be deemed accurate 
+and final.
+We declare that this invoice shows the actual price of the goods described and that all particulars are true and correct.
+We certify that foods mentioned in this invoice is/are warranted to be nature and quality which it/these purports to be.
+All the disputes subject to the courts of Gurgaon (Haryana) jurisdiction
+Interest will be levied @18% on all bill/which remain unpaid after the stipulated/contracted period/credit period as per 
+terms
+We are registered under Micro, Small & Medium Enterprises Development (MSMED) act 2006 with registration 
+UDYAM-HR-05-0014072
+                
+Authorised Signatory
+Bank Name
+A/C No.
+IFSC Code
+Branch
+:
+:
+:
+:
+HDFC
+50200034921174
+HDFC0000589
+Manesar
+Bank Details : 
+Customer's Seal and SignatureChecked By & Date
+Ample Foods Private Limited
+24/03/2026  Page 2 of 2
+This is a computer-generated document. No Signature is required
+Printed by SAP Business OnePrinted by SAP Business One
+PSM Frozen Pork Pepperoni Salami 100g
+PSM Pizza Minis - Chicken Tikka 180g

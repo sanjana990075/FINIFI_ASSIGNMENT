@@ -182,24 +182,40 @@ Every lifecycle step prints structured logging prefixes:
 
 ## 10. Setup & Execution Instructions
 
+### Backend Setup
 1. **Install Dependencies**:
    ```bash
    npm install
    ```
-2. **Configure Environment variables (`.env`)**:
-   ```env
-   PORT=4000
-   MONGODB_URI=your_mongodb_connection_string
-   GEMINI_API_KEY=your_gemini_api_key
-   # Option: Add GROQ_API_KEY to switch parsing to Groq API
-   GROQ_API_KEY=your_groq_api_key
+2. **Configure Environment Variables**:
+   Copy the `.env.example` file to `.env` and fill in your credentials:
+   ```bash
+   cp .env.example .env
    ```
-3. **Start the Server**:
+   *   `PORT`: Port for the backend server (default: `4000`).
+   *   `MONGODB_URI`: Your MongoDB database connection string.
+   *   `GEMINI_API_KEY`: Your Google Gemini API Key.
+   *   `GROQ_API_KEY`: (Optional) Your Groq API Key if using Groq models.
+3. **Start the Backend Server**:
    ```bash
    npm run dev
    ```
-4. **Interactive Swagger Docs**: Open `http://localhost:4000/api-docs` in your browser.
-5. **Postman Collection**: Import the `Three-Way-Match-Engine.postman_collection.json` file from the root directory directly into Postman.
+   Interactive API documentation (Swagger) will be available at `http://localhost:4000/api-docs`.
+
+### Frontend Setup
+1. **Install Frontend Dependencies**:
+   ```bash
+   cd frontend
+   npm install
+   ```
+2. **Start the Frontend Development Server**:
+   ```bash
+   npm run dev
+   ```
+   The frontend application will be running at `http://localhost:5173` (or the port specified by Vite in the terminal).
+
+### Interactive Tools
+*   **Postman Collection**: Import the `Three-Way-Match-Engine.postman_collection.json` file from the root directory directly into Postman to test the backend endpoints.
 
 ---
 

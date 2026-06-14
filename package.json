@@ -6,8 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "node src/app.js",
-    "dev": "nodemon src/app.js",
-    "test-scenarios": "node test-scenarios.js"
+    "dev": "nodemon src/app.js"
   },
   "keywords": [
     "express",

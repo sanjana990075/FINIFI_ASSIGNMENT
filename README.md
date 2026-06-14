@@ -218,20 +218,15 @@ Every lifecycle step prints structured logging prefixes:
 
 ## 11. Testing & Verification Scenarios
 
-We have created an automated test script that validates Scenario 1 through Scenario 6.
+You can verify the reconciliation engine scenarios using the React frontend UI or the interactive Swagger API documentation at `/api-docs`.
 
-### Run Automated Scenario Tests:
-```bash
-npm run test-scenarios
-```
-
-### Verified Scenarios:
-1. **Scenario 1 (PO only)**: Ingests PO $\rightarrow$ Expected match status: `insufficient_documents`.
-2. **Scenario 2 (PO + GRN)**: Ingests GRN with partial quantity $\rightarrow$ Expected match status: `partially_matched`.
-3. **Scenario 3 (PO + GRN + Invoice)**: Ingests Invoice dated after PO $\rightarrow$ Expected status: `mismatch` (reason: `invoice_date_after_po_date`).
-4. **Scenario 4 (GRN Qty > PO Qty)**: Ingests GRN with excessive quantity $\rightarrow$ Expected status: `mismatch` (reason: `grn_qty_exceeds_po_qty`).
-5. **Scenario 5 (Invoice Qty > GRN Qty)**: Ingests Invoice with qty exceeding GRN $\rightarrow$ Expected status: `mismatch` (reason: `invoice_qty_exceeds_grn_qty`).
-6. **Scenario 6 (Duplicate PO Upload)**: Attempts uploading duplicate PO $\rightarrow$ Expected: Blocked, returns `{ "error": "duplicate_po" }`.
+### Verification Scenarios:
+1. **Scenario 1 (PO only)**: Ingest PO $\rightarrow$ Expected match status: `insufficient_documents`.
+2. **Scenario 2 (PO + GRN)**: Ingest GRN with partial quantity $\rightarrow$ Expected match status: `partially_matched`.
+3. **Scenario 3 (PO + GRN + Invoice)**: Ingest Invoice dated after PO $\rightarrow$ Expected status: `mismatch` (reason: `invoice_date_after_po_date`).
+4. **Scenario 4 (GRN Qty > PO Qty)**: Ingest GRN with excessive quantity $\rightarrow$ Expected status: `mismatch` (reason: `grn_qty_exceeds_po_qty`).
+5. **Scenario 5 (Invoice Qty > GRN Qty)**: Ingest Invoice with qty exceeding GRN $\rightarrow$ Expected status: `mismatch` (reason: `invoice_qty_exceeds_grn_qty`).
+6. **Scenario 6 (Duplicate PO Upload)**: Upload duplicate PO $\rightarrow$ Expected: Blocked, returns `{ "error": "duplicate_po" }`.
 
 ---
 

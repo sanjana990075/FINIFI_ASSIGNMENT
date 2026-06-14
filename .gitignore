@@ -6,4 +6,5 @@ dist/
 build/
 *.log
 .npm/
-uploads/tmp/
+uploads/
+scratch/

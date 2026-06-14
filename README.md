@@ -214,9 +214,6 @@ Every lifecycle step prints structured logging prefixes:
    ```
    The frontend application will be running at `http://localhost:5173` (or the port specified by Vite in the terminal).
 
-### Interactive Tools
-*   **Postman Collection**: Import the `Three-Way-Match-Engine.postman_collection.json` file from the root directory directly into Postman to test the backend endpoints.
-
 ---
 
 ## 11. Testing & Verification Scenarios
